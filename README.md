@@ -1,7 +1,11 @@
-# Test repository for Netology
-## Why I am doing this
-I am doing the task to master my GitHub-using skills. I hope it will help me become a better programmer. 
-### What does this repository have?
-It actually consists of various text blocks only.
-## How to download?
-Use the URL
+# NeuroStartUp
+GitHub - отличный способ контролировать и организовывать свою работу над проектом. Его "фишка" в том, что вы храните все
+файлы не только у себя на компьютере, но и в Интернете.
+Так, вы можете склонировать к себе все, что нужно. Изменить и отправить на удалённый репозиторий.
+## NeuroStartUp 
+Это динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий 
+искусственного интеллекта. Наши преимущества:
+
+*Высокая точность поиска
+*Высокая скорость поиска
+*Низкая цена
